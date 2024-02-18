@@ -41,7 +41,7 @@ function Navbar() {
               to="headerbg"
               style={{ cursor: "pointer" }}
             >
-              14662008CanadaInc.
+              14662008 Canada Inc.
             </Link>
           </h1>
           <ul className="bar">
