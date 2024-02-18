@@ -8,14 +8,16 @@ function Services() {
               <div className="row">
                 <div className="col-md-4 mb-2">
                   <Card title="Web Development Solutions" img="card1.png"
-                        text="Web services design, development and maintenance. "/>
+                        text="\n
+                        Web services design, development and maintenance. "/>
                 </div>
                 <div className="col-md-4 mb-2">
-                  <Card title="Data Privacy Consulting" img="img1.png"
+                  <Card title="Data Privacy Consulting" img="card2.png"
                         text="Personal data security, large data secure transfer."/>
                 </div>
                 <div className="col-md-4 mb-2">
-                  <Card title="Privacy Computing Solutions" img="card3.png"
+                  <Card title="\n
+                  Privacy Computing Solutions" img="card3.png"
                         text="Key management service, federated learning, secure multi-party computing."/>
                 </div>
               </div>
