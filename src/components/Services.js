@@ -17,7 +17,7 @@ function Services() {
                 <div className="col-md-4 mb-2">
                   <Card title="Privacy Computing Solutions" img="card3.png"
                         text="Key management service, federated learning, secure multi-party computing."/>
-                </div
+                </div>
               </div>
             </div>
         </div>
