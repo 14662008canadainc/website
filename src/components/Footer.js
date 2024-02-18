@@ -13,14 +13,6 @@ function Footer() {
                 <p className="footer-title">Important Link</p>
                 <ul>
                   <li>
-                  <Link   
-                         spy={true}
-                         smooth={true}
-                         duration={1000}
-                         to="headerbg"
-                  > Home </Link>
-                  </li>
-                  <li>
                   <Link to="services" spy={true} smooth={true} duration={1000} > Services </Link>
                   </li>
                   <li>
@@ -36,7 +28,10 @@ function Footer() {
                 <p className="footer-title">Contact</p>
                 <ul>
                   <li>
-                    <Link to="#" >14662008CanadaInc@gmail.com</Link>
+                    <Link to="#">14662008CanadaInc@gmail.com</Link>
+                  </li>
+                  <li>
+                    <Link to="#">©2024 14662008 CANADA INC. All rights reserved.</Link>
                   </li>
                 </ul>
               </div>
