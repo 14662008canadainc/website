@@ -8,6 +8,7 @@ function Services() {
               <div className="row">
                 <div className="col-md-4 mb-2">
                   <Card title="Web Development Solutions" img="card1.png"
+
                         text="Web services design, development and maintenance. "/>
                 </div>
                 <div className="col-md-4 mb-2">
