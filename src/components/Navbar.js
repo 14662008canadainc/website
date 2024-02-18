@@ -41,7 +41,7 @@ function Navbar() {
               to="headerbg"
               style={{ cursor: "pointer" }}
             >
-              Shielding Your Data
+              14662008CanadaInc.
             </Link>
           </h1>
           <ul className="bar">

@@ -11,7 +11,7 @@ function About() {
           <div className="col-md-6">
             <h2 className="main-title about-h2">ABOUT</h2>
             <p className="main-p">
-              Design, build, scale and deliver the customized software solutions.{"\n"}
+              We design, build, scale and deliver customized software solutions.{"\n"}
               Working with Lavita @ Singapore, a blockchain-AI based next generation healthcare technology company aiming to revolutionize the way 8 billion individuals around the world diagnose, analyze, and treat health and genomic issues, leading to earlier intervention and improved outcome.{"\n"}
               Working with NovoVivo @ California, building a platform to enable the use of massive biomedical datasets for research while preserving individual privacy and ownership of data.
             </p>
