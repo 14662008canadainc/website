@@ -11,7 +11,7 @@ function Services() {
                         text="Web services design, development and maintenance. "/>
                 </div>
                 <div className="col-md-4 mb-2">
-                  <Card title="Data Privacy Consulting" img="card2.png"
+                  <Card title="Data Privacy Consulting" img="img1.png"
                         text="Personal data security, large data secure transfer."/>
                 </div>
                 <div className="col-md-4 mb-2">
