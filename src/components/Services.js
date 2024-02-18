@@ -7,7 +7,7 @@ function Services() {
             <div className="col-md-12">
               <div className="row">
                 <div className="col-md-4 mb-2">
-                  <Card <h2 style={{marginBottom: '5px' }}>{title}</h2>
+                  <Card
                         title={<><br />Web Development Solutions</>}
                         img="card1.png"
                         text="Web services design, development and maintenance. "/>
@@ -17,7 +17,7 @@ function Services() {
                         text="Personal data security, large data secure transfer."/>
                 </div>
                 <div className="col-md-4 mb-2">
-                  <Card <h2 style={{marginBottom: '5px' }}>{title}</h2>
+                  <Card 
                         title={<><br />Privacy Computing Solutions</>}
                         img="card3.png"
                         text="Key management service, federated learning, secure multi-party computing."/>
