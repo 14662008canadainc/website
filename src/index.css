@@ -209,7 +209,7 @@ header h1 {
 /* main */
 .main-title {
   font-size: 48px;
-  color: #01bf71;
+  color: #000000;
 }
 .main-p {
   font-size: 22px;
@@ -309,7 +309,7 @@ footer ul li a {
 }
 /* Services */
 .card-title {
-  color: #01bf71;
+  color: #000000;
   font-size: 24px;
 }
 .p-3 {
