@@ -46,8 +46,8 @@ function Footer() {
                 <p className="footer-title">Attributions</p>
                 <ul>
                   <li>
-                    <Link to="https://www.vecteezy.com/free-videos/background" spy={true} smooth={true}
-                          duration={1000}> Background Stock Videos by Vecteezy </Link>
+                    <a href="https://www.vecteezy.com/free-videos/background">Background
+                      Stock Videos by Vecteezy</a>
                   </li>
                 </ul>
               </div>
