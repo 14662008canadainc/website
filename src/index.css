@@ -292,7 +292,7 @@ footer ul li a {
 }
 .gotop {
   transition: all 0.2s;
-  background-color: #01bf71;
+  background-color: #00204a;
   position: fixed;
   border-radius: 25px;
   padding: 1rem;
@@ -378,7 +378,7 @@ ul li a {
   width: 100%;
   font-weight: 500;
   z-index: 1;
-  background-color: #01bf71;
+  background-color: #00204a;
   padding: 10px 50px;
 
   transition: background-color 0.2s;
