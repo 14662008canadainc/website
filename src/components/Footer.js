@@ -31,7 +31,7 @@ function Footer() {
                     <Link to="#">14662008CanadaInc@gmail.com</Link>
                   </li>
                   <li>
-                    <Link to="#">Copyright: ©2024 14662008 Canada Inc.</Link>
+                    <Link to="#">Copyright: ©2024 14662008 Canada Inc. o/a E2A2 Innovations</Link>
                   </li>
                 </ul>
               </div>
