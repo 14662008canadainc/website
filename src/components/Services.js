@@ -9,17 +9,17 @@ function Services() {
                 <div className="col-md-4 mb-2">
                   <Card
                         title={<><br />Web Service Solutions</>}
-                        img="card1.png"
+                        img="card1b.png"
                         text="Web services design, development and maintenance. "/>
                 </div>
                 <div className="col-md-4 mb-2">
-                  <Card title="Data Privacy Consulting" img="card2.png"
+                  <Card title="Data Privacy Consulting" img="card2b.png"
                         text="Personal data privacy, secure storage & transfer."/>
                 </div>
                 <div className="col-md-4 mb-2">
                   <Card 
                         title={<><br />Privacy Computing Solutions</>}
-                        img="card3.png"
+                        img="card3b.png"
                         text="Confidential computing, secure database, key management service."/>
                 </div>
               </div>
