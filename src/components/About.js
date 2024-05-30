@@ -11,8 +11,12 @@ function About() {
           <div className="col-md-6">
             <h2 className="main-title about-h2">ABOUT</h2>
             <p className="main-p">
-              At E2A2 INNOVATIONS, we design, build, scale and deliver customized software solutions.{"\n"}
+              At E2A2 INNOVATIONS, we design, build, scale and deliver customized software solutions.
+            </p>
+            <p className="main-p">
               Working with Lavita @ Singapore, a blockchain-AI based next generation healthcare technology company aiming to revolutionize the way 8 billion individuals around the world diagnose, analyze, and treat health & genomic issues, leading to earlier intervention and improved outcome.{"\n"}
+            </p>
+            <p className="main-p">
               Working with NovoVivo @ California, building a platform to enable the use of massive biomedical datasets for research while preserving individual privacy and ownership of data.
             </p>
           </div>
