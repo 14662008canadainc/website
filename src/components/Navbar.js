@@ -41,7 +41,7 @@ function Navbar() {
               to="headerbg"
               style={{ cursor: "pointer" }}
             >
-              14662008 CANADA INC. o/a E2A2 INNOVATIONS
+              E2A2 INNOVATIONS (14662008 CANADA INC.)
             </Link>
           </h1>
           <ul className="bar">
